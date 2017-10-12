@@ -48,10 +48,10 @@ Android</br>
 Sharing options are based on what has been setup in the device settings</br>
 
 <h3>3. Usage on iOS and Android</h3>
-using UnityEngine;
-using System.Collections;
+using UnityEngine;</br>
+using System.Collections;</br>
 
-namespace jtac.SocialSharing
+namespace jtac.SocialSharing</br>
 {
     public class Example : MonoBehaviour
     {
