@@ -1,4 +1,4 @@
-# UUnity3d ultimate social share plugin for Android and iOS
+# Unity3d ultimate social share plugin for Android and iOS
 Developer: Anthony A. Castor
 
 This Source does not give any warranty please use at your own risk </br>
