@@ -43,7 +43,7 @@ Sharing options are based on what has been setup in the device settings</br>
 
 Android</br>
 
-![alt text](screenshots/1.PNG "Scene2")
+![alt text](screenshots/2.PNG "Scene2")
 
 Sharing options are based on what has been setup in the device settings</br>
 
