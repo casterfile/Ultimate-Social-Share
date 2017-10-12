@@ -51,7 +51,8 @@ Sharing options are based on what has been setup in the device settings</br>
 using UnityEngine;</br>
 using System.Collections;</br>
 
-namespace jtac.SocialSharing</br>
+```
+namespace jtac.SocialSharing
 {
     public class Example : MonoBehaviour
     {
@@ -72,5 +73,6 @@ namespace jtac.SocialSharing</br>
         }
     }
 }
+```
 
 
