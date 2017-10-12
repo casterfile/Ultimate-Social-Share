@@ -37,13 +37,13 @@ This plugin allows you to use the native sharing window of your mobile device.</
 <h3>2. Screenshots</h3>
 iOS 7 (iPhone)</br>
 
-![alt text](screenshots/1.png "Scene1")
+![alt text](screenshots/1.PNG "Scene1")
 
 Sharing options are based on what has been setup in the device settings</br>
 
 Android</br>
 
-![alt text](screenshots/1.png "Scene2")
+![alt text](screenshots/1.PNG "Scene2")
 
 Sharing options are based on what has been setup in the device settings</br>
 
