@@ -28,19 +28,23 @@ Github: https://goo.gl/jPHFPe </br>
 
 
 <h3>1. Description</h3>
-This plugin allows you to use the native sharing window of your mobile device.
-•	Works on Unity3d 5.0+
-•	Works on Android, version 2.3.3 and higher (probably 2.2 as well).
-•	Works on iOS6 and up.
+This plugin allows you to use the native sharing window of your mobile device.</br>
+•	Works on Unity3d 5.0+</br>
+•	Works on Android, version 2.3.3 and higher (probably 2.2 as well).</br>
+•	Works on iOS6 and up.</br>
 
 
 <h3>2. Screenshots</h3>
 iOS 7 (iPhone)</br>
+
 ![alt text](screenshots/1.png "Scene1")
+
 Sharing options are based on what has been setup in the device settings</br>
 
 Android</br>
+
 ![alt text](screenshots/1.png "Scene2")
+
 Sharing options are based on what has been setup in the device settings</br>
 
 <h3>3. Usage on iOS and Android</h3>
